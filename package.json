@@ -1,6 +1,6 @@
 {
   "name": "isempty-util",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A utility library to check if a value is empty in JavaScript.",
   "main": "index.js",
   "scripts": {
